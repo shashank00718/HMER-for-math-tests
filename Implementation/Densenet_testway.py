@@ -1,8 +1,3 @@
-'''
-Python 3.6 
-Pytorch >= 0.4
-Written by Hongyu Wang in Beihang university
-'''
 import torch
 import math
 import torch.nn as nn
