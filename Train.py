@@ -5,7 +5,7 @@ import torch.optim as optim
 from torch.nn.parallel import DataParallel
 from torch.utils.data import Dataset
 from data_iterator import dataIterator  # Custom data loading module
-from Densenet_torchvision import DenseNet  # Custom DenseNet implementation
+from Densenet_torchvision import DenseMD  # Custom DenseNet implementation
 from Attention_RNN import AttnDecoderCausal  # Custom Attention Decoder
 
 
