@@ -1,8 +1,3 @@
-'''
-Originally written by Hongyu Wang in Beihang university
-Modified for Academic Use by Taanvi Dande of BITS Pilani, Hyderabad Campus.
-
-'''
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
