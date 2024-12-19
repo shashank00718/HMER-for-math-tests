@@ -1,8 +1,3 @@
-'''
-Originally written by Hongyu Wang in Beihang university
-
-Code modified for academic use by Taanvi Dande of BITS Pilani, Hyd Campus.
-'''
 import os
 import sys
 import pandas as pd
